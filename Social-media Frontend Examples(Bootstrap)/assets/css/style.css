@@ -1,0 +1,3 @@
+#navbarNav > ul:nth-child(1) > li > a:hover {
+    background-color: gray;
+}
